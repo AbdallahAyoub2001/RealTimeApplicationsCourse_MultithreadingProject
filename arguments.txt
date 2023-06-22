@@ -1,0 +1,7 @@
+ants=10
+placeFoodAmount=5
+smellFoodDistance=20
+callAntsDistance=30
+pheromoneSensitivityQuant=0.25
+foodPortionPercent=50
+simulationTime=30
